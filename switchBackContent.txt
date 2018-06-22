@@ -1,0 +1,18 @@
+        <a class="titletext">Technology</a>
+        <br/>
+        <a class="subtext">Ajax switching!</a>
+        <br/>
+        <br/>
+        <br/>
+        <button type="button" onclick="switchTest()">switch</button>
+        <br/>
+        <img style="top: 44px; width: 33%; height: auto;" src="img/img1.jpg">
+        <img style="top: 44px; width: 33%; height: auto;" src="img/img1_normalsize.jpg">
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <a style="font-family: Autour One; text-align: left; position: relative; right: 5%;">^ Web-optimized image (52.7 KB)</a>
+        <a style="font-family: Autour One; text-align: left; position: relative; left: 5%;">Normal image (137 KB) ^</a>
+        <br/>
+        <a class="subtext"><a class="subtext" href="smartdebate.html">Smartphone Debate</a></a>
